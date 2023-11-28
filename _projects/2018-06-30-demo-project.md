@@ -32,6 +32,7 @@ Please click the name of the paper to download it.
 
 Please click the name of the paper to download it.
 * [Essays in Econometrics](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Essays in Econometrics.pdf)
+* [The Effects of Political Persecution on Education in China](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Political_Persecution.pdf)
 
 
 
