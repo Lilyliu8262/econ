@@ -1,6 +1,6 @@
 ---
 title: 'Research Papers'
-description: My research is to apply machine learning techniques to economic studies. I worked on different data structure models, including panel, cross-sectional, time series, and network data. I have published academic papers in top econometric journals. Please click here to see more details, download my Ph.D. dissertation and research papers.
+description: My research is to apply machine learning techniques to economic studies. I worked on different data structure models, including panel, cross-sectional, time series, and network data. I have published academic papers in top econometric journals. Please click here to see more details, and download my Ph.D. dissertation and research papers.
 
 featured_image: '/images/demo/demo-square.jpg'
 ---
